@@ -1,0 +1,17 @@
+git --version
+Version
+
+git config --list
+default Configuration
+
+git config --global user.name "user nmae"
+user which is used to connect to remote repo
+git config user.name
+
+git config --global user.email "praveen.com"
+To set email
+git config user.email
+
+
+
+
